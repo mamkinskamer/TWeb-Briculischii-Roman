@@ -115,7 +115,7 @@ function App() {
           },
         ]}
       >
-        <Input />
+        <Input type='text' name='name'/>
       </Form.Item>
 
       <Form.Item
@@ -128,7 +128,7 @@ function App() {
           },
         ]}
       >
-        <Input.Password />
+        <Input.Password type='text' name='name'/>
       </Form.Item>
 
       <Form.Item
@@ -141,7 +141,7 @@ function App() {
           },
         ]}
       >
-        <Input />
+        <Input type='text' name='name'/>
       </Form.Item>
 
       
